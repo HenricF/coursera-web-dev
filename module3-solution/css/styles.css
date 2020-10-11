@@ -1,0 +1,13 @@
+body {
+  background-color: #fbf7f0;
+}
+
+.navbar.navbar-default {
+  background-color: #d9e4dd;
+}
+
+.text-container {
+  background-color: #cdc9c3;
+  margin: 0 auto 15px;
+  padding: 5px 15px 15px 5px;
+}
